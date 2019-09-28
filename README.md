@@ -1,0 +1,2 @@
+# Breast-Cancer-Prediction
+The objective of this project is to classify the cancer as Malignant or Benign.A benign tumor is not cancer, does not spread, can usually be completely removed, is not likely to recur and does not usually present a serious threat to health. A malignant tumor is cancer, and can invade neighbouring tissue and organs through blood or lymph system (this is the system which helps fight infection). Using Machine Learning model, we will predict whether a person has cancer or not. 
